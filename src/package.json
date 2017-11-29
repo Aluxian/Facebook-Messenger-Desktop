@@ -43,10 +43,10 @@
     }
   },
   "packages": {
-    "osx64": "https://updates.messengerfordesktop.com/download/darwin/latest",
-    "win32": "https://updates.messengerfordesktop.com/download/win32/latest",
-    "linux32": "https://updates.messengerfordesktop.com/download/linux/latest?arch=i386&pkg=deb",
-    "linux64": "https://updates.messengerfordesktop.com/download/linux/latest?arch=amd64&pkg=deb"
+    "osx64": "https://updates.messengerfordesktop.org/download/darwin/latest",
+    "win32": "https://updates.messengerfordesktop.org/download/win32/latest",
+    "linux32": "https://updates.messengerfordesktop.org/download/linux/latest?arch=i386&pkg=deb",
+    "linux64": "https://updates.messengerfordesktop.org/download/linux/latest?arch=amd64&pkg=deb"
   },
   "darwin": {
     "bundleId": "com.aluxian.messengerfd",
@@ -59,16 +59,16 @@
     "section": "web"
   },
   "license": "MIT",
-  "author": "MessengerForDesktop.com <hello@messengerfordesktop.com>",
+  "author": "MessengerForDesktop.com <hello@messengerfordesktop.org>",
   "authorName": "MessengerForDesktop.com",
   "copyright": "Copyright © MessengerForDesktop.com",
-  "homepage": "https://messengerfordesktop.com",
+  "homepage": "https://messengerfordesktop.org",
   "repository": {
     "type": "git",
     "url": "https://github.com/aluxian/Messenger-for-Desktop.git"
   },
   "changelogUrl": "https://github.com/aluxian/Messenger-for-Desktop/releases/tag/v%CURRENT_VERSION%",
-  "virtualUrl": "http://app.messengerfordesktop.com",
+  "virtualUrl": "http://app.messengerfordesktop.org",
   "piwik": {
     "serverUrl": "{{& PIWIK_SERVER_URL }}",
     "siteId": "2"

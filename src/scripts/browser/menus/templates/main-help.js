@@ -5,7 +5,7 @@ export default {
   submenu: [{
     label: 'Open App Website',
     click () {
-      shell.openExternal('https://messengerfordesktop.com/');
+      shell.openExternal('https://messengerfordesktop.org/');
     }
   }, {
     label: 'Send Feedback',

@@ -1,4 +1,4 @@
-This End-User License Agreement (EULA) is a legal agreement between you (either as an individual or on behalf of an entity) and The Cofounders Ltd, Seychelles regarding your use of Messenger for Desktop for OS X, Windows and Linux and associated documentation (the "Software"). This EULA includes the Terms and Conditions (https://messengerfordesktop.com/terms.html) and Privacy Policy (https://messengerfordesktop.com/privacy.html). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
+This End-User License Agreement (EULA) is a legal agreement between you (either as an individual or on behalf of an entity) and The Cofounders Ltd, Seychelles regarding your use of Messenger for Desktop for OS X, Windows and Linux and associated documentation (the "Software"). This EULA includes the Terms and Conditions (https://messengerfordesktop.org/terms.html) and Privacy Policy (https://messengerfordesktop.org/privacy.html). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
 
 Summary
 You must agree to all of the terms of this EULA to use this Software.
@@ -55,6 +55,6 @@ This EULA constitutes the entire agreement between you and The Cofounders Ltd, S
 
 You agree that this EULA and your use of the Software are governed under Romanian law and any dispute related to the Software must be brought in a tribunal of competent jurisdiction located in or near Bucharest, Romania.
 
-Please send any questions about this EULA to hello@messengerfordesktop.com.
+Please send any questions about this EULA to hello@messengerfordesktop.org.
 
 The last update to this EULA was posted on December 17, 2016.

@@ -60,7 +60,7 @@ export default {
   }, {
     label: 'Discover More Bots',
     click () {
-      shell.openExternal('https://chatbottle.co/bots/messenger?ref=messengerfordesktop.com');
+      shell.openExternal('https://chatbottle.co/bots/messenger?ref=messengerfordesktop.org');
     }
   }]
 };

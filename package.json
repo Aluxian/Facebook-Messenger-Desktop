@@ -51,8 +51,8 @@
     "lint-js": "eslint src/scripts"
   },
   "license": "MIT",
-  "author": "MessengerForDesktop.com <hello@messengerfordesktop.com>",
-  "homepage": "https://messengerfordesktop.com/",
+  "author": "MessengerForDesktop.com <hello@messengerfordesktop.org>",
+  "homepage": "https://messengerfordesktop.org/",
   "repository": {
     "type": "git",
     "url": "https://github.com/aluxian/Messenger-for-Desktop.git"
